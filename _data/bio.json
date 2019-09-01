@@ -2,14 +2,14 @@
   "basics": {
     "name": "Kobe Dait",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/profile_pic.jpeg",
+    "picture": "https://hedakobe.github.io/images/profile_pic.jpeg",
     "email": "kobedait@hawaii.edu",
     "phone": "808-753-0936",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://hedakobe.github.io",
     "summary": "I am studying for a B.S. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": 96789",
+      "postalCode": "96789",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -18,55 +18,45 @@
       {
         "network": "github",
         "username": "hedakobe",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/hedakobe"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Kobe Dait",
+        "url": "http://linkedin.com/in/kobe-dait-84458b17a"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Kobes",
+        "url": "http://instagram.com/kobee._.dee/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computers",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Space",
       "keywords": [
+        "cosmos"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -74,19 +64,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-27",
       "endDate": "Present",
       "gpa": "",
       "courses": [
