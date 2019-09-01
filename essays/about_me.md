@@ -4,7 +4,7 @@ type: essay
 title: About Me
 labels:
   - Hawaii
-  - Travel
+  - Bookstore
   - Hobbies
 ---
 
