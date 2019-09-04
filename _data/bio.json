@@ -24,24 +24,22 @@
         "network": "linkedin",
         "username": "Kobe Dait",
         "url": "http://linkedin.com/in/kobe-dait-84458b17a"
-      },
+      }
     ]
   },
   "interests": [
     {
       "name": "Computers",
       "keywords": [
-        "MacOS",
-        ""
+        "MacOS"
       ]
     },
     {
       "name": "Space",
       "keywords": [
-        "Cosmos",
-        ""
+        "Cosmos"
       ]
-    },
+    }
   ],
   "skills": [
     {
