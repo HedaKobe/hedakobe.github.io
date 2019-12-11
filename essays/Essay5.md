@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E5: Assignment 2
+title: Reflecting on Assignment2
 labels:
   - Assignment2
 ---
